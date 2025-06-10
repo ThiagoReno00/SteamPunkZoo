@@ -20,13 +20,18 @@ def tela_selecao_mapa(tela):
     mapas = [
         {
             "nome": "Floresta Verde",
-            "thumb_path": "cenario floresta.png",
-            "bg_path": "cenario floresta.png"
+            "thumb_path": "cenario_floresta.jpg",
+            "bg_path": "cenario_floresta.jpg"
         },
         {
             "nome": "Montanhas Nevadas",
-            "thumb_path": "cenario gelo.png",
-            "bg_path": "cenario gelo.png"
+            "thumb_path": "cenario_gelo.jpg",
+            "bg_path": "cenario_gelo.jpg"
+        },
+        {
+            "nome": "Deserto",
+            "thumb_path": "cenario_deserto.jpg",
+            "bg_path": "cenario_deserto.jpg"
         }
     ]
 
